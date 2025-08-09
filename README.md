@@ -25,10 +25,6 @@ It allows users to generate strong and secure passwords based on selected criter
 
 ---
 
-## 🚀 Live Demo
-[🔗 View Live Project](#) <!-- Replace with your live link if hosted -->
-
----
 
 ## 📂 Project Structure
 password-generator/
